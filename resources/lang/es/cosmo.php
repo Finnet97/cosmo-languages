@@ -521,7 +521,7 @@ return [
             'toggle_dark_mode' => 'Activar / Desactivar modo Obscuro',
 
             'yearly_sales' => 'Ofertas Anuales',
-            'monthly_sales' => 'Ofertas Mensuales',
+            'monthly_sales' => 'Ofertas Mensuales', // yeah
 
             'stats' => [
                 'earnings' => [
